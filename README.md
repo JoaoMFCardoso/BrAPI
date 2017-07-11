@@ -63,5 +63,5 @@ The second extracts the data from investigation database where investigaionID is
 If the response is a single record that doesn't require pagination, then the value for the "pagination" key is the javascript reserved word 'NULL'. When the results are paginated, the pagination object contains the keys "pageSize", "currentPage", "totalCount", "totalPages". The first page will be page 0 (zero).
 
 
-##Specs to be implemented for Studies
+##Specs to be implemented for studies
 https://github.com/plantbreeding/API/tree/master/Specification/Studies
